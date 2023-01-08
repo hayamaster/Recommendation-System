@@ -2,6 +2,7 @@
 
 # used models
 -- COLLABORATIVE FILTERING --
+- euclidean distance
 - cosine similarity (item-based)
 - matrix factorization SVD(singular value decomposition)
 
